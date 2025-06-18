@@ -11,10 +11,19 @@ ol{
     padding: 1% 2%;
 }
 
-h3{
+h3,h1{
     background-color: aliceblue;
     display: table;
     align-items: center;
     margin: 1%;
     padding: 0.5%;
+}
+
+div.Bloque{
+    background-color: aliceblue;
+    display: block;
+    margin: 1%;
+    padding: 1%;
+    border-radius: 5%;
+    display: inline-flex;
 }
